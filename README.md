@@ -24,11 +24,11 @@ Contains the sample spec testing the Go server
 
 ### server.sh
 
-Runs the Go server. Included here for clarity. [Here are the instructions for installing Go](https://golang.org/doc/install)
+Runs the Go server. [Here are the instructions for installing Go](https://golang.org/doc/install)
 
 ### tests.sh
 
-Runs the tests. Included here for clarity.
+Runs the tests.
 
 ### LICENSE
 
