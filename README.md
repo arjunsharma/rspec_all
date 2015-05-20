@@ -1,4 +1,4 @@
-# Go with RSpec
+# RSpec All The Things
 
 This is a demo application for showing how RSpec and Ruby can be used to test applications in other languages. In this case, we are testing a simple server written in Go. The project includes:
 
